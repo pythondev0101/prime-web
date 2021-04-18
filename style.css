@@ -17,3 +17,7 @@
 .testimony h2{
     color: rgb(0, 97, 168);
 }
+
+.primary-color {
+    background-color: rgb(0, 97, 168) !important;
+}
